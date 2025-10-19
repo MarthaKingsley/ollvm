@@ -1,5 +1,5 @@
 
-<h1 align="center">Arkari</h1>
+<h1 align="center">Arkari （请给我点小星星和打钱）</h1>
 <p align="center">
  <a href="https://discord.gg/f5nDYjsrKZ">
   <img width="180" src="https://discordapp.com/api/guilds/1391744742148145294/widget.png" />
@@ -251,3 +251,11 @@ Thanks to [JetBrains](https://www.jetbrains.com/?from=KomiMoe) for providing fre
 + [Goron](https://github.com/amimo/goron)
 + [Hikari](https://github.com/HikariObfuscator/Hikari)
 + [ollvm](https://github.com/obfuscator-llvm/obfuscator)
+
+## License
+本项目采用 混合协议 开源，因此使用本项目时，你需要注意以下几点：
+1. 第三方库代码或修改部分遵循其原始开源许可.
+2. 本项目获取部分项目授权而不受部分约束
+2. 项目其余逻辑代码采用[本仓库开源许可](./LICENSE).
+
+**本仓库仅用于提升用户对自身代码的保护能力，实现代码逻辑混淆加密的功能，禁止任何项目未经仓库主作者授权基于 KomiMoe/Hikari 代码开发。使用请遵守当地法律法规，由此造成的问题由使用者和提供违规使用教程者负责。**
