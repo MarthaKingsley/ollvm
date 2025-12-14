@@ -1,5 +1,5 @@
 <h1 align="center">KomiMoe/Hikari</h1>
-<h2 align="center">曾用名: Arkari (请给我点小星星和打钱) </h2>
+<h2 align="center">曾用名: Arkari (我一直在哭, 请给我点小星星, 我无法停止哭泣) </h2>
 
 <h3 align="center">
   <a href="https://discord.gg/f5nDYjsrKZ">
@@ -9,16 +9,16 @@
 
 <p align="center">
  <a href="https://github.com/KomiMoe/Hikari/issues">
-  <img src="https://img.shields.io/github/issues/KomiMoe/Hikari"/> 
+  <img src="https://img.shields.io/github/issues/KomiMoe/Hikari?a=a"/> 
  </a>
  <a href="https://github.com/KomiMoe/Hikari/network/members">
-  <img src="https://img.shields.io/github/forks/KomiMoe/Hikari"/> 
+  <img src="https://img.shields.io/github/forks/KomiMoe/Hikari?a=a"/> 
  </a>  
  <a href="https://github.com/KomiMoe/Hikari/stargazers">
-  <img src="https://img.shields.io/github/stars/KomiMoe/Hikari"/> 
+  <img src="https://img.shields.io/github/stars/KomiMoe/Hikari?a=a"/> 
  </a>
  <a href="https://github.com/KomiMoe/Hikari/LICENSE">
-  <img src="https://img.shields.io/github/license/KomiMoe/Hikari?"/> 
+  <img src="https://img.shields.io/github/license/KomiMoe/Hikari?a=a"/> 
  </a>
 </p>
 <p align="center">
@@ -267,6 +267,7 @@ Thanks to [JetBrains](https://www.jetbrains.com/?from=KomiMoe) for providing fre
 - **USDT(TRC20)**: `TJ5SnHvRmiaoVzWVSZPAuMdsUwEMnLxmLP`
 
 站街售卖自己，白菜价出租自己
+我就是阴暗b
 
 ## License
 本项目采用 混合协议 开源，因此使用本项目时，你需要注意以下几点：
