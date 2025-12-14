@@ -9,16 +9,16 @@
 
 <p align="center">
  <a href="https://github.com/KomiMoe/Hikari/issues">
-  <img src="https://img.shields.io/github/issues/KomiMoe/Hikari"/> 
+  <img src="https://img.shields.io/github/issues/KomiMoe/Hikari?a=a"/> 
  </a>
  <a href="https://github.com/KomiMoe/Hikari/network/members">
-  <img src="https://img.shields.io/github/forks/KomiMoe/Hikari"/> 
+  <img src="https://img.shields.io/github/forks/KomiMoe/Hikari?a=a"/> 
  </a>  
  <a href="https://github.com/KomiMoe/Hikari/stargazers">
-  <img src="https://img.shields.io/github/stars/KomiMoe/Hikari"/> 
+  <img src="https://img.shields.io/github/stars/KomiMoe/Hikari?a=a"/> 
  </a>
  <a href="https://github.com/KomiMoe/Hikari/LICENSE">
-  <img src="https://img.shields.io/github/license/KomiMoe/Hikari?"/> 
+  <img src="https://img.shields.io/github/license/KomiMoe/Hikari?a=a"/> 
  </a>
 </p>
 <h3 align="center">Yet another LLVM-based obfuscator based on Goron</h3>
