@@ -1,4 +1,4 @@
-<h1 align="center">KomiMoe/Hikari</h1>
+<h1 align="center">komimoe/Hikari</h1>
 <h2 align="center">Formerly Known As: Arkari (Please give me stars and support) </h2>
 
 <h3 align="center">
