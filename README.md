@@ -1,4 +1,4 @@
-<h1 align="center">KomiMoe/Hikari</h1>
+<h1 align="center">komimoe/Hikari</h1>
 <h2 align="center">曾用名: Arkari (我一直在哭, 请给我点小星星, 我无法停止哭泣) </h2>
 <h3 align="center">Former name: Arkari (I've been crying, please give me a star, I can't stop crying)</h3>
 
